@@ -1,0 +1,22 @@
+{
+  "name": "log-my-ass",
+  "version": "1.0.0",
+  "description": "simple nodejs logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitekeep/log-my-ass.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "whitekeep <wkeep@wkeep.ru> (https://wkeep.ru)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/whitekeep/log-my-ass/issues"
+  },
+  "homepage": "https://github.com/whitekeep/log-my-ass#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "log-my-ass",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple nodejs logger",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,9 @@
     "url": "git+https://github.com/whitekeep/log-my-ass.git"
   },
   "keywords": [
-    "logger"
+    "logger",
+    "nodejs",
+    "expressjs"
   ],
   "author": "whitekeep <wkeep@wkeep.ru> (https://wkeep.ru)",
   "license": "CC0-1.0",

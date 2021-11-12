@@ -1,5 +1,7 @@
 # log-my-ass
 
+[![CodeQL](https://github.com/whitekeep/log-my-ass/workflows/CodeQL/badge.svg)](https://github.com/whitekeep/log-my-ass/actions?query=workflow%3ACodeQL)
+
 simple nodejs logger
 
 # Get start
